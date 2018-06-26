@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Safety App" language="en" table="x_snc_safety_app2_x_snc_safety_app2">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Safety App</label>
+            <language>en</language>
+            <name>x_snc_safety_app2_x_snc_safety_app2</name>
+            <plural>Safety Apps</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>jade</sys_created_by>
+            <sys_created_on>2018-06-26 18:45:28</sys_created_on>
+            <sys_id>f4a2aabf1332174064585aff3244b046</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Safety App</sys_name>
+            <sys_package display_value="Safety App" source="x_snc_safety_app2">d8a226bf1332174064585aff3244b027</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Safety App">d8a226bf1332174064585aff3244b027</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_safety_app2_x_snc_safety_app2__en</sys_update_name>
+            <sys_updated_by>jade</sys_updated_by>
+            <sys_updated_on>2018-06-26 18:45:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
